@@ -1,3 +1,4 @@
+// Compiles on Rust nightly toolchain
 #![feature(test)]
 
 use rand::Rng;
